@@ -1,1 +1,10 @@
 demo
+
+packge com.company
+
+public class Main{
+  public static void main(String[] args) {
+    //Edit your code here
+    System.out.println("Hello World!");
+  }
+}
