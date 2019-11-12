@@ -7,3 +7,4 @@ dev will pull change.
 git edit no commit then pull will overwrite?
 The answer is no.
 dev pull original master what's will happen.
+The result is not allowd.
