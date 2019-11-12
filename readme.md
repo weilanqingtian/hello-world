@@ -5,4 +5,4 @@ fixed bug.
 fixed bug again
 dev will pull change.
 git edit no commit then pull will overwrite?
-
+The answer is no.
